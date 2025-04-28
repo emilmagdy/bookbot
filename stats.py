@@ -17,6 +17,7 @@ def characters_count(book_content):
             char_dict[char] = 1 
     return char_dict
 
+
 def report_char_count(char_dict):
     """
     This function takes the word count dictoinary and returns a report.
